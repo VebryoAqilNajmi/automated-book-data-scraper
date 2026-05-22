@@ -57,3 +57,7 @@ automated-book-data-scraper/
 ├── LICENSE
 └── .gitignore
 ```
+## Screenshot
+
+### Scraping Result
+![Scraping Result](Scraping.jpeg)
